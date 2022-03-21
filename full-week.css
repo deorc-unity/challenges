@@ -1,0 +1,26 @@
+body {
+    text-align : center;
+    background-color: rgb(82, 6, 6);
+}
+h1 {
+    font-family : 'Oswald';
+    color : rgb(221, 231, 191);
+}
+p{
+    font-family: 'Fira-Sans';
+    font-size : 30px;
+    color : rgb(250, 247, 82);
+}
+a {
+    color : black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+#kiss-miss {
+    color : orangered;
+    text-decoration: underline; 
+}
